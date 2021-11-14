@@ -1,1 +1,2 @@
 This is test conflict file
+line testttt
